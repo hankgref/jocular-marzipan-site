@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "SE1: Software Engineering Preface",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe introduction to “Software Engineering at Google” is an in-depth look at the challenges, tools, trials, and processes an organization uses to build and maintain code. It is not, however, meant to cover software design itself, which is stressed early on, instead focusing on the engineering aspects of software.\nPERSONAL REFLECTION:\nThe content in the introduction to this book is an excellent introduction to the world and culture of software engineering. As someone who is currently working on a software engineering project, I am optimistic that this book will show us engineers in this team some useful information.\nRELEVANT ACTION ITEMS:\nAs software engineers, it’s our job to ensure that our software is accessible, functional, and effective. It is also important that we prepare an adaptable base with tools such as DebuggingBook and Chasten, so that our team can be flexible in the face of unforeseen challenges."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello, my name is Henry Grefenstette. This is my software engineering website."
+  },
+  {
+    "objectID": "week1.html",
+    "href": "week1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nHELLO THIS IS IN WEEK1 FILE\nWOOP WOOP"
+  }
+]
